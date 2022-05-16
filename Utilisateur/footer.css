@@ -1,0 +1,48 @@
+#footer-area{
+	/*padding:  90px 0 60px 0 ;*/
+	background:#262626;
+	color: #fff;
+}
+.footer-social{
+	margin-top: 20px;
+}
+.single-footer h3{
+	font-weight: 500;
+	margin-bottom: 25px;
+	color: #fafafa;
+	font-family: Merienda;
+}
+.link-area li{
+	padding: 5px 5px 5px 0;
+	list-style: none;
+}
+.link-area li a{
+	text-transform: capitalize;
+	color: #ddd;
+	font-family: Merienda;
+}
+.link-area li a i{
+	margin-right: 10px;
+	color: #ddd;
+}
+.link-area{
+	padding: 0;
+}
+.single-footer p{
+	font-family: Merienda;
+}
+.footer-social li a{
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	background:#000;
+}
+.footer-social li a i{
+	color: #fff;
+	padding: 8px;
+}
+.widget li{
+	float: left;
+	width: 50%;
+}
+
